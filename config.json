@@ -1,0 +1,12 @@
+{
+  "blogUrl":"sql.availabooks.com",
+  "bookId": "ms8i",
+  "title": "SQL and Database Management",
+  "authors": [
+     "Elijah Allen",
+     "Gove N. Allen",
+     "Nicholas Ball"
+   ],
+   "chapterLabel": "Chapter",
+   "tools":["ai-prompt","abby"]
+}
