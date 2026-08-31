@@ -8,5 +8,8 @@
      "Nicholas Ball"
    ],
    "chapterLabel": "Chapter",
-   "tools":["ai-prompt","abby"]
+   "tools":["ai-prompt","abby"],
+   "pagesProjectName": "book-sql",
+   "cloudflareAccountId": "0bfdb544606ce71a8c67be03fabd48ee",
+   "appSlug": "sql"
 }
