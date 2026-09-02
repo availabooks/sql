@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Constraints, Indexes, and Triggers
-
 ::: {.learning} 
 Learning Objectives
 

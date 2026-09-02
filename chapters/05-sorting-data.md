@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Sorting Retrieved Data
-
 ::: {.learning} 
 Learning Objectives
 

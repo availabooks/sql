@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Using Data Manipulation Functions
-
 ::: {.learning} 
 Learning Objectives
 

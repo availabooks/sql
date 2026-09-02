@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Summarizing Data
-
 ::: {.learning} 
 Learning Objectives
 

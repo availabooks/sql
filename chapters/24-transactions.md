@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Managing Transaction Processing
-
 ::: {.learning} 
 Learning Objectives
 

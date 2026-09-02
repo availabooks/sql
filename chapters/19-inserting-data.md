@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Inserting Data
-
 ::: {.learning} 
 Learning Objectives
 

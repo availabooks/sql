@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Using Views
-
 ::: {.learning} 
 Learning Objectives
 

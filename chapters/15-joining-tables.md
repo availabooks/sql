@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Joining Tables
-
 ::: {.learning} 
 Learning Objectives
 

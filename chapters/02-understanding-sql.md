@@ -1,4 +1,3 @@
-# Understanding SQL
 ::: {.learning} 
 Learning Objectives
 

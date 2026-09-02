@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Grouping Data
-
 ::: {.learning} 
 Learning Objectives
 

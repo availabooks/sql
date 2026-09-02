@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Creating and Manipulating Tables
-
 ::: {.learning} 
 Learning Objectives
 

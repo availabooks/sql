@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Working with Subqueries
-
 ::: {.learning} 
 Learning Objectives
 

@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Using Wildcard Filtering
-
 ::: {.learning} 
 Learning Objectives
 

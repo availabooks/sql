@@ -2,7 +2,6 @@
 _$_import: assessment
 ---
 
-# Assessments
 These assessments allow you to see how well you are learning the material presented in this book.
 
 ## Simple Queries

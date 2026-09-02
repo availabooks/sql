@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Advanced Joins
-
 ::: {.learning} 
 Learning Objectives
 

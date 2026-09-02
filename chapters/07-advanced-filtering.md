@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Advanced Data Filtering
-
 ::: {.learning} 
 Learning Objectives
 

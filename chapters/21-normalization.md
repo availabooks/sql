@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Database Modeling and Normalization
-
 ::: {.learning} 
 Learning Objectives
 

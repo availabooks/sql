@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Updating and Deleting Data
-
 ::: {.learning} 
 Learning Objectives
 

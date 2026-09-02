@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Combining Queries
-
 ::: {.learning} 
 Learning Objectives
 

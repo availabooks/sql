@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Creating Calculated Fields
-
 ::: {.learning} 
 Learning Objectives
 

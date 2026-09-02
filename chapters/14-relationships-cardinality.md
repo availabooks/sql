@@ -1,5 +1,3 @@
-# Table Relationships and Cardinality
-
 ::: {.learning} 
 Learning Objectives
 

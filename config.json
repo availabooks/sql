@@ -11,5 +11,147 @@
    "tools":["ai-prompt","abby"],
    "pagesProjectName": "book-sql",
    "cloudflareAccountId": "0bfdb544606ce71a8c67be03fabd48ee",
-   "appSlug": "sql"
+   "appSlug": "sql",
+   "system": "dev",
+  "versions": {
+    "alpha": {
+      "chapters": [
+        {
+          "id": "introduction",
+          "title": "Introducing SQL",
+          "filename": "1.html"
+        },
+        {
+          "id": "understanding-sql",
+          "title": "Understanding SQL",
+          "filename": "2.html"
+        },
+        {
+          "id": "database-tables",
+          "title": "Designing Database Tables",
+          "filename": "3.html"
+        },
+        {
+          "id": "retrieving-data",
+          "title": "Retrieving Data",
+          "filename": "4.html"
+        },
+        {
+          "id": "sorting-data",
+          "title": "Sorting Retrieved Data",
+          "filename": "5.html"
+        },
+        {
+          "id": "filtering-data",
+          "title": "Filtering Data",
+          "filename": "6.html"
+        },
+        {
+          "id": "advanced-filtering",
+          "title": "Advanced Data Filtering",
+          "filename": "7.html"
+        },
+        {
+          "id": "wildcard-filtering",
+          "title": "Using Wildcard Filtering",
+          "filename": "8.html"
+        },
+        {
+          "id": "calculated-fields",
+          "title": "Creating Calculated Fields",
+          "filename": "9.html"
+        },
+        {
+          "id": "data-functions",
+          "title": "Using Data Manipulation Functions",
+          "filename": "10.html"
+        },
+        {
+          "id": "summarizing-data",
+          "title": "Summarizing Data",
+          "filename": "11.html"
+        },
+        {
+          "id": "grouping-data",
+          "title": "Grouping Data",
+          "filename": "12.html"
+        },
+        {
+          "id": "subqueries",
+          "title": "Working with Subqueries",
+          "filename": "13.html"
+        },
+        {
+          "id": "relationships-cardinality",
+          "title": "Table Relationships and Cardinality",
+          "filename": "14.html"
+        },
+        {
+          "id": "joining-tables",
+          "title": "Joining Tables",
+          "filename": "15.html"
+        },
+        {
+          "id": "advanced-joins",
+          "title": "Advanced Joins",
+          "filename": "16.html"
+        },
+        {
+          "id": "combining-queries",
+          "title": "Combining Queries",
+          "filename": "17.html"
+        },
+        {
+          "id": "creating-tables",
+          "title": "Creating and Manipulating Tables",
+          "filename": "18.html"
+        },
+        {
+          "id": "inserting-data",
+          "title": "Inserting Data",
+          "filename": "19.html"
+        },
+        {
+          "id": "updating-deleting-data",
+          "title": "Updating and Deleting Data",
+          "filename": "20.html"
+        },
+        {
+          "id": "normalization",
+          "title": "Database Modeling and Normalization",
+          "filename": "21.html"
+        },
+        {
+          "id": "views",
+          "title": "Using Views",
+          "filename": "22.html"
+        },
+        {
+          "id": "stored-procedures",
+          "title": "Working with Stored Procedures",
+          "filename": "23.html"
+        },
+        {
+          "id": "transactions",
+          "title": "Managing Transaction Processing",
+          "filename": "24.html"
+        },
+        {
+          "id": "cursors",
+          "title": "Using Cursors",
+          "filename": "25.html"
+        },
+        {
+          "id": "constraints-indexes-triggers",
+          "title": "Constraints, Indexes, and Triggers",
+          "filename": "26.html"
+        },
+        {
+          "id": "assessments",
+          "title": "Assessments",
+          "filename": "27.html"
+        }
+      ]
+    }
+  }
 }

@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Designing Database Tables
-
 ::: {.learning} 
 Learning Objectives
 

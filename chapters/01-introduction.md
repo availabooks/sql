@@ -2,8 +2,6 @@
 _$_import: websql
 ---
 
-# Introducing SQL (Structured Query Language)
-
 ::: {.learning} 
 Learning Objectives
 
