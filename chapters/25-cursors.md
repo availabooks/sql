@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe what a cursor is and why it's used.
->2. Describe the declare-open-fetch-close lifecycle of a cursor.
->3. Declare and open a cursor in PostgreSQL, using both plain SQL and PL/pgSQL.
->4. Use FETCH within a loop to step through a cursor's result set, checking FOUND to detect the end of the data.
->5. Close a cursor when you are finished with it.
+::: {.objectives}
+1. Describe what a cursor is and why it's used.
+2. Describe the declare-open-fetch-close lifecycle of a cursor.
+3. Declare and open a cursor in PostgreSQL, using both plain SQL and PL/pgSQL.
+4. Use FETCH within a loop to step through a cursor's result set, checking FOUND to detect the end of the data.
+5. Close a cursor when you are finished with it.
 :::
 :::
 

@@ -5,12 +5,10 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe why the ability to work with databases is valuable across professions.
->2. Describe the DBMS and features used throughout this book.
->3. Identify the different types of sidebars used in this book and what each one highlights.
+::: {.objectives}
+1. Describe why the ability to work with databases is valuable across professions.
+2. Describe the DBMS and features used throughout this book.
+3. Identify the different types of sidebars used in this book and what each one highlights.
 :::
 :::
 

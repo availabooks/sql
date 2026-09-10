@@ -7,14 +7,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use the WHERE clause of a SELECT statement to filter the results of a query.
->2. Filter the rows of a query result to match against a single value.
->3. Filter the rows of a query result to look for non-matched values.
->4. Filter the rows of a query result to check against a range of values.
->5. Filter the rows of a query result to find rows without a value.
+::: {.objectives}
+1. Use the WHERE clause of a SELECT statement to filter the results of a query.
+2. Filter the rows of a query result to match against a single value.
+3. Filter the rows of a query result to look for non-matched values.
+4. Filter the rows of a query result to check against a range of values.
+5. Filter the rows of a query result to find rows without a value.
 :::
 :::
 

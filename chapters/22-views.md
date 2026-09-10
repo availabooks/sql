@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe what a view is and how it differs from a table.
->2. Describe common uses and restrictions of views.
->3. Use CREATE VIEW to simplify a complex join.
->4. Use a view to reformat retrieved data or filter out unwanted rows.
->5. Use a view to simplify a query that includes a calculated field.
+::: {.objectives}
+1. Describe what a view is and how it differs from a table.
+2. Describe common uses and restrictions of views.
+3. Use CREATE VIEW to simplify a complex join.
+4. Use a view to reformat retrieved data or filter out unwanted rows.
+5. Use a view to simplify a query that includes a calculated field.
 :::
 :::
 

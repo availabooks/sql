@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Create complex filters using wildcard characters and the keyword LIKE.
->2. Use the wildcard character `%` in place of multiple characters.
->3. Use the wildcard character `_` in place of a single character.
->4. Use SIMILAR TO with a bracket expression to match one of a set of characters.
+::: {.objectives}
+1. Create complex filters using wildcard characters and the keyword LIKE.
+2. Use the wildcard character `%` in place of multiple characters.
+3. Use the wildcard character `_` in place of a single character.
+4. Use SIMILAR TO with a bracket expression to match one of a set of characters.
 :::
 :::
 

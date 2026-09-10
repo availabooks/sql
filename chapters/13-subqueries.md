@@ -5,12 +5,10 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe what a subquery is and how it is used.
->2. Use a subquery in a WHERE clause to filter a query based on the results of another query.
->3. Use a subquery as a calculated field to summarize related data for each row of a query result.
+::: {.objectives}
+1. Describe what a subquery is and how it is used.
+2. Use a subquery in a WHERE clause to filter a query based on the results of another query.
+3. Use a subquery as a calculated field to summarize related data for each row of a query result.
 :::
 :::
 

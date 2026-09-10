@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe when and why to use combined queries.
->2. Combine two or more SELECT statements using the UNION operator.
->3. Describe the rules that govern which SELECT statements can be combined with UNION.
->4. Use UNION ALL to include duplicate rows in a combined result.
->5. Sort the results of a combined query.
+::: {.objectives}
+1. Describe when and why to use combined queries.
+2. Combine two or more SELECT statements using the UNION operator.
+3. Describe the rules that govern which SELECT statements can be combined with UNION.
+4. Use UNION ALL to include duplicate rows in a combined result.
+5. Sort the results of a combined query.
 :::
 :::
 

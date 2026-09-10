@@ -5,12 +5,10 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Create database tables.
->2. Make changes to database tables.
->3. Remove tables from a database.
+::: {.objectives}
+1. Create database tables.
+2. Make changes to database tables.
+3. Remove tables from a database.
 :::
 :::
 

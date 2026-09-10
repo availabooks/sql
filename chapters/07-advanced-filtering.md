@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use the WHERE clause of a SELECT statement to combine filtering conditions.
->2. Understand the order of operations for combined filtering conditions.
->3. Use the keyword IN to filter based on a list of values.
->4. Use the keyword NOT to negate a filter condition.
+::: {.objectives}
+1. Use the WHERE clause of a SELECT statement to combine filtering conditions.
+2. Understand the order of operations for combined filtering conditions.
+3. Use the keyword IN to filter based on a list of values.
+4. Use the keyword NOT to negate a filter condition.
 :::
 :::
 

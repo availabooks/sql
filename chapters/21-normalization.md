@@ -5,12 +5,10 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe the insertion, update, and deletion anomalies.
->2. Explain basic normalization including first, second, and third normal forms.
->3. Describe how normalizing a database reduces the likelihood of insertion, update, and deletion anomalies.
+::: {.objectives}
+1. Describe the insertion, update, and deletion anomalies.
+2. Explain basic normalization including first, second, and third normal forms.
+3. Describe how normalizing a database reduces the likelihood of insertion, update, and deletion anomalies.
 :::
 :::
 

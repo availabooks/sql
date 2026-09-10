@@ -5,12 +5,10 @@ _$_import: websql, abby
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use the SELECT statement to retrieve one or more columns of data from a table.
->2. Use the keyword DISTINCT to show only unique rows in a database query.
->3. Add comments to a SQL statement.
+::: {.objectives}
+1. Use the SELECT statement to retrieve one or more columns of data from a table.
+2. Use the keyword DISTINCT to show only unique rows in a database query.
+3. Add comments to a SQL statement.
 :::
 :::
 

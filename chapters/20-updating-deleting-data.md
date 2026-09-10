@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use the UPDATE statement to modify specific rows or all rows in a table.
->2. Set a column's value to NULL to remove existing data.
->3. Use the DELETE statement to remove specific rows or all rows from a table.
->4. Describe best practices for using UPDATE and DELETE safely.
+::: {.objectives}
+1. Use the UPDATE statement to modify specific rows or all rows in a table.
+2. Set a column's value to NULL to remove existing data.
+3. Use the DELETE statement to remove specific rows or all rows from a table.
+4. Describe best practices for using UPDATE and DELETE safely.
 :::
 :::
 

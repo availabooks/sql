@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use table aliases to shorten SQL syntax and to reference the same table more than once in a query.
->2. Create a self join to relate a table to itself.
->3. Create a natural join that avoids returning duplicate columns.
->4. Create left, right, and full outer joins to include unmatched rows.
->5. Use aggregate functions together with joins.
+::: {.objectives}
+1. Use table aliases to shorten SQL syntax and to reference the same table more than once in a query.
+2. Create a self join to relate a table to itself.
+3. Create a natural join that avoids returning duplicate columns.
+4. Create left, right, and full outer joins to include unmatched rows.
+5. Use aggregate functions together with joins.
 :::
 :::
 

@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe what stored procedures are and why they are used.
->2. Describe the tradeoffs of using stored procedures.
->3. Use the CALL statement to run a stored procedure in PostgreSQL.
->4. Describe the basic syntax for creating a stored procedure in PostgreSQL, including IN, OUT, and INOUT parameters.
->5. Use the RETURNING clause to capture an auto-generated primary key from within a procedure.
+::: {.objectives}
+1. Describe what stored procedures are and why they are used.
+2. Describe the tradeoffs of using stored procedures.
+3. Use the CALL statement to run a stored procedure in PostgreSQL.
+4. Describe the basic syntax for creating a stored procedure in PostgreSQL, including IN, OUT, and INOUT parameters.
+5. Use the RETURNING clause to capture an auto-generated primary key from within a procedure.
 :::
 :::
 

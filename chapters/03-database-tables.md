@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe the steps in designing database tables.
->2. Describe the business domain model of a proposed database.
->3. Understand how to create a database model.
->4. Understand basic syntax to build database tables and insert data into a table.
+::: {.objectives}
+1. Describe the steps in designing database tables.
+2. Describe the business domain model of a proposed database.
+3. Understand how to create a database model.
+4. Understand basic syntax to build database tables and insert data into a table.
 :::
 :::
 

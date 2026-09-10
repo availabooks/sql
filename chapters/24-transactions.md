@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe why transaction processing is needed to maintain database integrity.
->2. Define the terms transaction, commit, rollback, and savepoint.
->3. Use BEGIN and COMMIT to control a transaction block in PostgreSQL.
->4. Use ROLLBACK to undo an uncommitted transaction.
->5. Use SAVEPOINT and ROLLBACK TO SAVEPOINT to undo part of a transaction.
+::: {.objectives}
+1. Describe why transaction processing is needed to maintain database integrity.
+2. Define the terms transaction, commit, rollback, and savepoint.
+3. Use BEGIN and COMMIT to control a transaction block in PostgreSQL.
+4. Use ROLLBACK to undo an uncommitted transaction.
+5. Use SAVEPOINT and ROLLBACK TO SAVEPOINT to undo part of a transaction.
 :::
 :::
 

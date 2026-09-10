@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use the ORDER BY clause of a SELECT statement to sort the rows in a query result.
->2. Sort the rows of a query result in both ascending and descending order.
->3. Sort the rows of a query result by more than one column in the data.
->4. Use the keyword LIMIT to show a specified number of rows in a query result.
+::: {.objectives}
+1. Use the ORDER BY clause of a SELECT statement to sort the rows in a query result.
+2. Sort the rows of a query result in both ascending and descending order.
+3. Sort the rows of a query result by more than one column in the data.
+4. Use the keyword LIMIT to show a specified number of rows in a query result.
 :::
 :::
 

@@ -5,11 +5,9 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Use the GROUP BY clause of the SELECT statement to create summary categories for an aggregate calculation.
->2. Use the HAVING clause of the SELECT statement to create filters on the summary categories you create.
+::: {.objectives}
+1. Use the GROUP BY clause of the SELECT statement to create summary categories for an aggregate calculation.
+2. Use the HAVING clause of the SELECT statement to create filters on the summary categories you create.
 :::
 :::
 

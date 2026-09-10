@@ -5,12 +5,10 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Create calculated fields to perform simple mathematical calculations in a query.
->2. Use aliases to name calculated fields.
->3. Use calculated fields to manipulate text.
+::: {.objectives}
+1. Create calculated fields to perform simple mathematical calculations in a query.
+2. Use aliases to name calculated fields.
+3. Use calculated fields to manipulate text.
 :::
 :::
 

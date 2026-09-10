@@ -5,14 +5,12 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe the different ways the INSERT statement can be used.
->2. Insert a complete row into a table, both with and without an explicit column list.
->3. Insert a partial row into a table.
->4. Use INSERT SELECT to insert the results of a query into a table.
->5. Use CREATE TABLE AS SELECT (or SELECT INTO) to copy data into a new table.
+::: {.objectives}
+1. Describe the different ways the INSERT statement can be used.
+2. Insert a complete row into a table, both with and without an explicit column list.
+3. Insert a partial row into a table.
+4. Use INSERT SELECT to insert the results of a query into a table.
+5. Use CREATE TABLE AS SELECT (or SELECT INTO) to copy data into a new table.
 :::
 :::
 

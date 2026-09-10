@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe the basics of relational table design and why data is split across multiple tables.
->2. Explain what a join is and why it is needed.
->3. Create an equijoin (inner join) between two or more tables.
->4. Describe the Cartesian product problem and how the join condition prevents it.
+::: {.objectives}
+1. Describe the basics of relational table design and why data is split across multiple tables.
+2. Explain what a join is and why it is needed.
+3. Create an equijoin (inner join) between two or more tables.
+4. Describe the Cartesian product problem and how the join condition prevents it.
 :::
 :::
 

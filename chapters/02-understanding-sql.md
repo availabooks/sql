@@ -1,11 +1,9 @@
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe the building blocks of a database
->2. Explain what Structured Query Language (SQL) is and why it is used
+::: {.objectives}
+1. Describe the building blocks of a database
+2. Explain what Structured Query Language (SQL) is and why it is used
 :::
 :::
 

@@ -1,13 +1,11 @@
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Discuss how database tables are related.
->2. Describe minimum and maximum cardinality.
->3. Explain how cardinality impacts the use of foreign keys.
->4. Complete a business model of a database with details about relationships.
+::: {.objectives}
+1. Discuss how database tables are related.
+2. Describe minimum and maximum cardinality.
+3. Explain how cardinality impacts the use of foreign keys.
+4. Complete a business model of a database with details about relationships.
 :::
 :::
 

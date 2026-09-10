@@ -5,13 +5,11 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe the uses and limitations of data manipulation functions.
->2. Use functions to manipulate text.
->3. Use functions to manipulate dates and times.
->4. Use functions to manipulate numbers.
+::: {.objectives}
+1. Describe the uses and limitations of data manipulation functions.
+2. Use functions to manipulate text.
+3. Use functions to manipulate dates and times.
+4. Use functions to manipulate numbers.
 :::
 :::
 

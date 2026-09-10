@@ -5,16 +5,14 @@ _$_import: websql
 ::: {.learning} 
 Learning Objectives
 
-::: {.objectives} 
->:
->
->1. Describe how constraints, indexes, and triggers each help enforce the rules of a well-designed database.
->2. Use a `CHECK` constraint to enforce a custom business rule on a column's values.
->3. Describe what a composite primary key is and when one is needed.
->4. Describe what an index is, why it improves query performance, and what it costs in return.
->5. Create single-column, multi-column, and unique indexes with `CREATE INDEX`, and remove them with `DROP INDEX`.
->6. Describe what a trigger is, and the events and timing that can cause one to fire.
->7. Write a trigger function in PL/pgSQL and attach it to a table with `CREATE TRIGGER`.
+::: {.objectives}
+1. Describe how constraints, indexes, and triggers each help enforce the rules of a well-designed database.
+2. Use a `CHECK` constraint to enforce a custom business rule on a column's values.
+3. Describe what a composite primary key is and when one is needed.
+4. Describe what an index is, why it improves query performance, and what it costs in return.
+5. Create single-column, multi-column, and unique indexes with `CREATE INDEX`, and remove them with `DROP INDEX`.
+6. Describe what a trigger is, and the events and timing that can cause one to fire.
+7. Write a trigger function in PL/pgSQL and attach it to a table with `CREATE TRIGGER`.
 :::
 :::
 
