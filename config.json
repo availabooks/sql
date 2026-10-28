@@ -2,6 +2,8 @@
   "blogUrl":"sql.availabooks.com",
   "bookId": "ms8i",
   "title": "SQL and Database Management",
+  "subject": "Data and programming",
+  "description": "SQL from your first SELECT through joins, subqueries, and table design, with every query run right in the page.",
   "authors": [
      "Elijah Allen",
      "Gove N. Allen",
